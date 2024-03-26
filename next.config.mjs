@@ -3,4 +3,4 @@ const nextConfig = {
   output: 'export',
 }
 
-export 
+export default nextConfig
